@@ -1,8 +1,8 @@
 # Hi I'm Novalia 👋
 
 # 💫About Me :
-- 🔭 I’m currently ready for looking a job
-- 🌱 I’m currently learning Front End Enginneering
+- 🔭 I’m currently ready looking for a job
+- 🌱 I’m currently learning Front End Engineering
 - 👯 I’m looking to collaborate on Web Development
 
 
