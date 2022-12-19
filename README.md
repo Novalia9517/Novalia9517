@@ -1,8 +1,4 @@
-### Hi there 👋
-
-<!--
-**Novalia9517/Novalia9517** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+# Hi I'm Novalia 👋
 
 # 💫About Me :
 - 🔭 I’m currently ready for looking a job
