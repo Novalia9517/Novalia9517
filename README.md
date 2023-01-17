@@ -1,20 +1,21 @@
-<h1 align="center">
-  Hi I'm Novalia 👋
-</h1>
+<div align="center">
+<h1> Hi I'm Novalia 👋 Nice to see you 🤝</h1>
+</div>
+
+## Welcome to my page!
+
+## 💫About Me :
+I'm Frontend engineer from Indonesia.
+- 💻 I’m currently looking for a job as Front End Engineer
+- 🖱️ I’m enthusiast to collaborate on Web Development
 
 
-# 💫About Me :
-- 🔭 I’m currently ready looking for a job
-- 🌱 I’m currently learning Front End Engineering
-- 👯 I’m looking to collaborate on Web Development
-
-
-# 🌐Socials
+## 🌐Socials
 [![Linkedin](https://img.shields.io/badge/Linkedin-%231572B6.svg?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nova-lia-53b911261/) 
 
 <div align="justify-between">
   
-# 💻Tech Stack
+## 💻 Tech Stack
 
 <br>
 
@@ -36,7 +37,7 @@
 
 </div>
 
-# 📊GitHub Stats :
+## 📊GitHub Stats :
 
 <div align="center">
   
