@@ -1,4 +1,18 @@
-<h1 align="center"><a href="https://git.io/typing-svg"><img align="center" src="https://readme-typing-svg.herokuapp.com?font=Kalam&size=35&pause=500&color=161b228&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Novalia;Fron+End+Developer;Nice+too+see+you" alt="Typing SVG" /></a></h1>
+<p align=”center”>
+<img width=”200" height=”200" src=”https://user-images.githubusercontent.com/116619590/213229813-9b388f22-e4ec-435c-a8c4-280afc77b642.png" alt=”my banner”>
+</p>
+
+<h1 align="center" text='#161b228'>
+  Hi, I`m Novalia
+</h1>
+
+<h1 align="center"><a href="https://git.io/typing-svg"><img align="center" src="https://readme-typing-svg.herokuapp.com?font=pacifico&size=35&pause=10000&color=161b228&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Novalia;Front+End+Developer;Nice+too+see+you" alt="Typing SVG" /></a></h1>
+
+<h1 align="center"><a href="https://git.io/typing-svg"><img align="center" src="https://readme-typing-svg.demolab.com?font=verdana&weight=700&size=35&pause=500&color=161b228&center=true&vCenter=true&width=435&lines=Front+End+Engineer;Nice+To+See+You;Lets+collaborate+in+future+projects" alt="Typing SVG" /></a></h1>
+
+<h1 align='center>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lobster&weight=700&size=35&pause=500&color=161b228&center=true&vCenter=true&width=435&lines=Front+End+Engineer;Nice+To+See+You;Let%60s+collaborate+in+future+projects)](https://git.io/typing-svg)
+</h1>
 
 ## Welcome to my page!
 
@@ -37,7 +51,7 @@ I'm Frontend engineer from Indonesia.
 
 ## 📊GitHub Stats :
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=novalia9517&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="Novalia's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=novalia9517&theme=tokyonight&hide_border=false" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=novalia9517&theme=sea&hide_border=false&ring=161b228&include_all_commits=true&count_private=true" alt="Novalia's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=novalia9517&theme=sea&hide_border=false" /></a> |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 ---
