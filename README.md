@@ -1,6 +1,4 @@
-<div align="center">
-<h1> Hi I'm Novalia 👋 Nice to see you 🤝</h1>
-</div>
+<h1 align="center"><a href="https://git.io/typing-svg"><img align="center" src="https://readme-typing-svg.herokuapp.com?font=Kalam&size=35&pause=500&color=161b228&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Novalia;Fron+End+Developer;Nice+too+see+you" alt="Typing SVG" /></a></h1>
 
 ## Welcome to my page!
 
@@ -39,11 +37,8 @@ I'm Frontend engineer from Indonesia.
 
 ## 📊GitHub Stats :
 
-<div align="center">
-  
-![](https://github-readme-stats.vercel.app/api?username=novalia9517&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=novalia9517&theme=tokyonight&hide_border=false)<br/>
-</div>
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=novalia9517&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="Novalia's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=novalia9517&theme=tokyonight&hide_border=false" /></a> |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 ---
 [![](https://visitcount.itsvg.in/api?id=novalia9517&icon=2&color=6)](https://visitcount.itsvg.in)
