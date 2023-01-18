@@ -1,33 +1,36 @@
-<p align=”center”>
-<img width=”200" height=”200" src=”https://user-images.githubusercontent.com/116619590/213229813-9b388f22-e4ec-435c-a8c4-280afc77b642.png" alt=”my banner”>
-</p>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/HEURGne9Vj856oivkD/giphy.gif" width="90"/>
+  <p><a href="https://git.io/typing-svg"><img align="center" src="https://readme-typing-svg.herokuapp.com?font=pacifico&size=35&pause=5000&color=161b228&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Novalia;Front+End+Developer;Nice+too+see+you" alt="Typing SVG" /></a></p>
+</div>
 
-<h1 align="center" text='#161b228'>
-  Hi, I`m Novalia
-</h1>
 
-<h1 align="center"><a href="https://git.io/typing-svg"><img align="center" src="https://readme-typing-svg.herokuapp.com?font=pacifico&size=35&pause=10000&color=161b228&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Novalia;Front+End+Developer;Nice+too+see+you" alt="Typing SVG" /></a></h1>
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/nova-lia-53b911261/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="your-youtube-URL">
+    <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=Github&logoColor=white" alt="Github Badge"/>
+  </a>
+</div>
 
-<h1 align="center"><a href="https://git.io/typing-svg"><img align="center" src="https://readme-typing-svg.demolab.com?font=verdana&weight=700&size=35&pause=500&color=161b228&center=true&vCenter=true&width=435&lines=Front+End+Engineer;Nice+To+See+You;Lets+collaborate+in+future+projects" alt="Typing SVG" /></a></h1>
+<hr/>
 
-<h1 align='center>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lobster&weight=700&size=35&pause=500&color=161b228&center=true&vCenter=true&width=435&lines=Front+End+Engineer;Nice+To+See+You;Let%60s+collaborate+in+future+projects)](https://git.io/typing-svg)
-</h1>
 
-## Welcome to my page!
+<div id="header" align="center">
+  <img align='right' src="https://media.giphy.com/media/uB86ZyWQsnFSGYe2sA/giphy.gif" width="435"/>
+</div>
+<br>
+
+# Welcome to my page!
 
 ## 💫About Me :
 I'm Frontend engineer from Indonesia.
 - 💻 I’m currently looking for a job as Front End Engineer
 - 🖱️ I’m enthusiast to collaborate on Web Development
 
-
-## 🌐Socials
-[![Linkedin](https://img.shields.io/badge/Linkedin-%231572B6.svg?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nova-lia-53b911261/) 
-
-<div align="justify-between">
+<br><br><br><br><br><br><br>
   
-## 💻 Tech Stack
+# 💻 Tech Stack
 
 <br>
 
@@ -54,5 +57,6 @@ I'm Frontend engineer from Indonesia.
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=novalia9517&theme=sea&hide_border=false&ring=161b228&include_all_commits=true&count_private=true" alt="Novalia's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=novalia9517&theme=sea&hide_border=false" /></a> |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=novalia9517&layout=compact)](https://github.com/yushi1007)
 ---
 [![](https://visitcount.itsvg.in/api?id=novalia9517&icon=2&color=6)](https://visitcount.itsvg.in)
