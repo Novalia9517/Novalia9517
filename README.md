@@ -17,21 +17,38 @@
 
 
 <div id="header" align="center">
-  <img align='right' src="https://media.giphy.com/media/uB86ZyWQsnFSGYe2sA/giphy.gif" width="435"/>
+  <img align='right' src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width='1500' height="435"/>
 </div>
-<br>
+
+<br><br>
 
 # Welcome to my page!
 
-## 💫About Me :
-I'm Frontend engineer from Indonesia.
+
+# 💫About Me :
+I'm a Front-End Engineer who just graduated from Bootcamp at Alterra Academy. I participated in several projects using Javascript, Reactjs, Nextjs, Tailwindcss, and Bootstrap. Features that I have worked on include login, registration, Midtrans payment, cart feature, and so on. I trust that we should try hard to raise our level, that’s why I always want to learn and move even with a little change. I hope one day I can become a software engineer with a lot of knowledge and experience.
 - 💻 I’m currently looking for a job as Front End Engineer
 - 🖱️ I’m enthusiast to collaborate on Web Development
 
-<br><br><br><br><br><br><br>
-  
-# 💻 Tech Stack
+<br><br><br>
 
+# 📽️ Projects
+
+## EO-BOZZ
+
+EO-Bozz is an application that provides EO (Event Organizer) services with various choices, and verified and clear reviews of the activities that the EO has handled. The technologies at frontend side we use was ReactJS, Tailwindcss, DaisyUI, YUP and sweetalert. See the source on Github.
+
+## Airbnb Clone Project
+
+Airbnb Clone Project is a website that provides hotels or homestays for rent when people are on vacation. The feature that I cloned was creating boards, lists, and cards. The technologies at the frontend side we use was NextJS, Tailwindcss, and DaisyUI. See the source on Github.
+
+## Alterra Dashboard
+
+Alterra dashboard is a project for cloning the Altera dashboard website. The feature that I create is a list feature, and cards. The technologies at the frontend side we use was ReactJS, Tailwindcss, and DaisyUI. See the source on Github.
+
+
+
+# 💻 Tech Stack
 <br>
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
@@ -57,6 +74,5 @@ I'm Frontend engineer from Indonesia.
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=novalia9517&theme=sea&hide_border=false&ring=161b228&include_all_commits=true&count_private=true" alt="Novalia's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=novalia9517&theme=sea&hide_border=false" /></a> |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=novalia9517&layout=compact)](https://github.com/yushi1007)
 ---
 [![](https://visitcount.itsvg.in/api?id=novalia9517&icon=2&color=6)](https://visitcount.itsvg.in)
