@@ -17,7 +17,7 @@
 
 
 <div id="header" align="center">
-  <img align='right' src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width='1500' height="435"/>
+  <img align='right' src='https://user-images.githubusercontent.com/116619590/213229813-9b388f22-e4ec-435c-a8c4-280afc77b642.png' width='1500' height='435'/>
 </div>
 
 <br><br>
