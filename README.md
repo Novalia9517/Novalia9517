@@ -3,7 +3,7 @@
   <img align='center' src='https://user-images.githubusercontent.com/116619590/213958241-8672958b-e62c-491a-abc6-8ae621f0c7ad.png' width='1500' height='435'/>
 </div>
 
-<br><br>
+<br>
 
 <div id="header" align="center">
   <p><a href="https://git.io/typing-svg"><img align="center" src="https://readme-typing-svg.herokuapp.com?font=pacifico&size=35&pause=5000&color=161b228&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Novalia;Front+End+Engineer;Nice+too+see+you" alt="Typing SVG" /></a></p>
@@ -14,15 +14,18 @@
   <a href="https://www.linkedin.com/in/nova-lia-53b911261/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-youtube-URL">
+  <a href="https://github.com/Novalia9517">
     <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=Github&logoColor=white" alt="Github Badge"/>
+  </a>
+  <a href="https://novalia-portfolio-website.vercel.app/">
+    <img src="https://img.shields.io/badge/Portofolio-%23646CFF?style=for-the-badge&logo=html5&logoColor=white" alt="Portfolio Website"/>
   </a>
 </div>
 
 <hr/>
 
 
-<br/><br/>
+<br/>
 
 <summary><h2>💫About Me</h2></summary>
 I'm a Front-End Engineer who just graduated from Bootcamp at Alterra Academy. I participated in several projects using Javascript, Reactjs, Nextjs, Tailwindcss, and Bootstrap. Features that I have worked on include login, registration,  cart feature, and so on. I trust that we should try hard to raise our level, that’s why I always want to learn and move even with a little change. I hope one day I can become a software engineer with a lot of knowledge and experience.
@@ -30,7 +33,7 @@ I'm a Front-End Engineer who just graduated from Bootcamp at Alterra Academy. I 
 - 💻 I’m currently looking for a job as Front End Engineer<br/>
 - 🖱️ I’m enthusiast to collaborate on Web Development
 
-<br><br>
+<br>
 
 <!-- <details open>  -->
   <summary><h2>📘 My Projects</h2></summary>
@@ -46,7 +49,7 @@ I'm a Front-End Engineer who just graduated from Bootcamp at Alterra Academy. I 
   <a href="https://github.com/novalia9517?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
 <!-- </details> -->
 
-<br><br>
+<br>
 
 <summary><h2>💻 Tech Stack</h2></summary>
 
@@ -69,7 +72,7 @@ I'm a Front-End Engineer who just graduated from Bootcamp at Alterra Academy. I 
 
 </div>
 
-<br/><br/>
+<br/>
 
 <summary><h2>📊GitHub Stats</h2></summary>
 
